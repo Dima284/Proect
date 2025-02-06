@@ -67,7 +67,7 @@
   .hero{
     padding-top: 188px;
     padding-bottom: 260px;
-    background-image: url(../image/back-hero.png);
+    background-image: url(../imgs/divan.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -203,7 +203,7 @@
     height: 94px; 
     border-radius: 50%; 
     background-color: var(--backggound-coor); 
-    background-image: url(../image/tel.png);
+    background-image: url(../imgs/tel.png);
     background-repeat: no-repeat;
     background-position: center;
     display: flex
@@ -398,7 +398,7 @@
   width: 70px;
   height: 70px;
   border: none;
-  background-image: url(../image/ritht.png);
+  background-image: url(../imgs/strilka.png);
   background-repeat: no-repeat;
   background-position: center;
   margin-left: auto;
@@ -539,7 +539,7 @@
   width: 52px;
   height: 52px;
   border: none;
-  background-image: url(../image/ritht.png);
+  background-image: url(../imgs/strilka.png);
   background-repeat: no-repeat;
   background-position: center;
   }
